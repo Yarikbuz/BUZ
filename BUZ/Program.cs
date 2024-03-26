@@ -1,3 +1,3 @@
 ﻿using BUZ;
 
-Program2.main();
+Program3.main();
